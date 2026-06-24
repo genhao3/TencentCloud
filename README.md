@@ -105,7 +105,7 @@ python service.py
 ```
 
 ## 抢购成功截图（请在一小时内付款）
-![抢购成功截图](figure2.png)
+![抢购成功截图](figure1.png)
 
 ## 付款截图
 ![付款成功截图](figure2.png)
